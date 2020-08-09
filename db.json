@@ -1,18 +1,18 @@
 {
   "productos": [
     {
-      "nombre": "Vodka",
-      "precio": 450,
+      "nombre": "Ron",
+      "precio": "350",
       "id": 8
     },
     {
       "nombre": "Baileys",
-      "precio": 380,
+      "precio": "420",
       "id": 9
     },
     {
       "nombre": "whisky",
-      "precio": 550,
+      "precio": "700",
       "id": 10
     }
   ]
