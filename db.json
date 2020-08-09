@@ -4,6 +4,16 @@
       "nombre": "Vodka",
       "precio": 450,
       "id": 8
+    },
+    {
+      "nombre": "Baileys",
+      "precio": 380,
+      "id": 9
+    },
+    {
+      "nombre": "whisky",
+      "precio": 550,
+      "id": 10
     }
   ]
 }
