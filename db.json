@@ -14,6 +14,11 @@
       "nombre": "whisky",
       "precio": "700",
       "id": 10
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 450,
+      "id": 11
     }
   ]
 }
